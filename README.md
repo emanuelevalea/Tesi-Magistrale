@@ -16,8 +16,7 @@ Il lavoro affronta la *crisi della replicazione* in ambito scientifico, confront
 ```
 .
 ├── README.md
-├── tesi/
-│   └── tesi_nomecognome.pdf         
+├── tesi        
 ├── R/
 │   ├── Chapter_2_3_4.R              
 │   ├── Plots_Thesis.R               
