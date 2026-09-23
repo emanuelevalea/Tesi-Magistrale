@@ -1,0 +1,20 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# CmdStan / cmdstanr: eseguibili compilati (specifici per OS, si rigenerano da soli)
+*.exe
+*.o
+*.hpp
+R/Mod_Gamma          # eseguibile compilato senza estensione (Linux/Mac)
+cmdstan/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Output pesanti (scommenta se non vuoi versionare le figure generate)
+# figures/*.png
+# figures/*.pdf
