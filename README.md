@@ -8,7 +8,7 @@ Il lavoro affronta la *crisi della replicazione* in ambito scientifico, confront
 
 - **Capitolo 1** — Crisi della Replicabilità: cause e possibili soluzioni 
 - **Capitolo 2** — Metodi frequentisti (Statistical Significance Criterion, Meta-Analysis SSC, Prediction Interval Criterion, Small Telescope Approach) e metodi bayesiani (Default Bayes Factor, Replication Bayes Factor, Sceptical Bayes Factor, Sceptical Mixture Bayes Factor, Sceptical p-value) applicati ai dati del progetto `RProjects` (pacchetto `ReplicationSuccess`).
-- **Capitolo 3** — Calibrazione del parametro γ (grado di "shrinkage" tra studio originale e replica) con tre approcci: calibrazione KL, Empirical Bayes, Full Bayes (modello Stan con diverse prior Beta su γ), incluse diagnostiche MCMC e soglie di classificazione.
+- **Capitolo 3** — Calibrazione del parametro delta (grado di "shrinkage" tra studio originale e replica) con tre approcci: calibrazione KL, Empirical Bayes, Full Bayes (modello Stan con diverse prior Beta su delta), incluse diagnostiche MCMC e soglie di classificazione.
 - **Capitolo 4** — Simulazioni prior/posterior predittive per un sottoinsieme di studi selezionati, a confronto tra prior informativa (Beta(5,2)) e non informativa (U(0,1)).
 
 ## Struttura del repository
