@@ -1,4 +1,4 @@
-# La crisi della replicazione della scienza: un nuovo approccio statistico bayesiano
+# Un approccio statistico alla crisi della replicazione nella scienza
 
 Repository della tesi, con codice R per le analisi e per la generazione dei grafici.
 
